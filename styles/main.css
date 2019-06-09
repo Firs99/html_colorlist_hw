@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.li_winter{
+    color:#003399;
+}
+.ol__li_winter{
+    color:#3B62B1;
+}
+.li_spring{
+    color: #009933;
+}
+.ol__li_spring{
+    color: #1AA348;
+}
+.li_summer{
+    color: #FFCC00;
+}
+.ol__li_summer{
+    color: #FFD93F;
+}
+.li_autumn{
+    color: #FF6600;
+}
+.ol__li_autumn{
+    color: #FF6600;
+}
